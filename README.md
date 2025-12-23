@@ -1,4 +1,1 @@
-## Hi there 👋
-
-### Learning to become data analytic
-### If want to calaborate or create some projects together feel free to ask
+A born skeptic who turning a habit of questioning everything into a career in Data Analytics.
